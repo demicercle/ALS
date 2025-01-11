@@ -78,3 +78,5 @@ DerivedDataCache/*
 /Content/Stylized_Forest/*
 /Content/Ignored/*
 /Content/LevelPrototyping/*
+
+.DS_Store
